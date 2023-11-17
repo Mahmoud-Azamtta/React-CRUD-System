@@ -1,0 +1,16 @@
+.submit {
+  background-color: #427D9D;
+  color: #fff;
+  border: 1px solid #164863;
+  transition: background-color 0.2s
+}
+
+.submit:hover {
+    background-color: #164863;
+}
+
+.backend-error {
+  background-color: rgba(255, 0, 0, 0.2) !important;
+  border: 1px solid #f00;
+  color: #f00;
+}

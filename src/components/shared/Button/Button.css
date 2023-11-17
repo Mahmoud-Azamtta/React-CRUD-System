@@ -1,0 +1,30 @@
+.delete-user {
+  border-color: red !important;
+  transition: background-color 0.1s, transform 0.1s;
+}
+
+.delete-user:hover {
+  background-color: rgb(255, 0, 0, 0.15) !important;
+}
+
+.details {
+  border-color: #68c1f1 !important;
+  transition: background-color 0.1s, transform 0.1s;
+}
+
+.details:hover {
+  background-color: #68c1f122 !important;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.update-user {
+  border-color: #5BB318 !important;
+  transition: background-color 0.1s, transform 0.1s;
+}
+
+.update-user:hover {
+  background-color: #5BB31822 !important;
+}
