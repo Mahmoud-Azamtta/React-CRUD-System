@@ -37,7 +37,7 @@ function ShowAll() {
       pauseOnHover: true,
       draggable: true,
       progress: undefined,
-      theme: "",
+      theme: "light",
     });
   };
 
